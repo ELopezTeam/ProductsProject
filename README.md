@@ -36,11 +36,13 @@ El proyecto está dividido en una arquitectura en capas, divididas de la siguien
 
 ### Pasos para Levantar el Proyecto Localmente
 
-1. **Clonar el Repositorio**
+1. **Clonar el Repositorio
 ```bash
 git clone https://github.com/ELopezTeam/ProductsProject.git
 
 
-2. **Clonar el Repositorio**
+2. **Configurar la Base de Datos
 ```bash
-git clone https://github.com/ELopezTeam/ProductsProject.git
+"ConnectionStrings": {
+  "DefaultConnection": "Server=your_server;Database=your_database;User Id=your_user;Password=your_password;"
+}
