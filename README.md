@@ -39,6 +39,34 @@ El proyecto está dividido en una arquitectura en capas, divididas de la siguien
 1. **Clonar el Repositorio**
 ```bash
 git clone https://github.com/ELopezTeam/ProductsProject.git
+```
+2. **Ejecutar el siguiente script en su base de datos:**
+```bash
+CREATE TABLE dbo.Products (
+	ProductId int NOT NULL,
+	Name varchar(100),
+	Status int NULL,
+	Stock int NULL,
+	Description varchar(100),
+	Price decimal(38,0) NULL
+);
+```
+3. **Configurar la Base de Datos.** Asegúrate de tener una instancia de SQL Server en ejecución. Configura la cadena de conexión en el archivo appsettings.json ubicado en la raíz del proyecto:
+```bash
+"ConnectionStrings": {
+  "DefaultConnection": "Server=your_server;Database=your_database;User Id=your_user;Password=your_password;"
+}
+```
+
+4. **Restaurar Dependencias.** Navega al directorio del proyecto y restaura las dependencias usando el siguiente comando
+```bash
+dotnet restore
+```
+
+5. **Ejecutar la Aplicación.** Ejecuta la aplicación localmente con el siguiente comando
+```bash
+dotnet run
+```
 
 2. **Configurar la Base de Datos**
 Asegúrate de tener una instancia de SQL Server en ejecución. Configura la cadena de conexión en el archivo appsettings.json ubicado en la raíz del proyecto:
