@@ -1,0 +1,17 @@
+/Users/heisenbergdev/Documents/Proyectos/Productos/ProductApi.Application/obj/Debug/net8.0/ProductApi.Application.csproj.AssemblyReference.cache
+/Users/heisenbergdev/Documents/Proyectos/Productos/ProductApi.Application/obj/Debug/net8.0/ProductApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/heisenbergdev/Documents/Proyectos/Productos/ProductApi.Application/obj/Debug/net8.0/ProductApi.Application.AssemblyInfoInputs.cache
+/Users/heisenbergdev/Documents/Proyectos/Productos/ProductApi.Application/obj/Debug/net8.0/ProductApi.Application.AssemblyInfo.cs
+/Users/heisenbergdev/Documents/Proyectos/Productos/ProductApi.Application/obj/Debug/net8.0/ProductApi.Application.csproj.CoreCompileInputs.cache
+/Users/heisenbergdev/Documents/Proyectos/Productos/ProductApi.Application/bin/Debug/net8.0/ProductApi.Application.deps.json
+/Users/heisenbergdev/Documents/Proyectos/Productos/ProductApi.Application/bin/Debug/net8.0/ProductApi.Application.dll
+/Users/heisenbergdev/Documents/Proyectos/Productos/ProductApi.Application/bin/Debug/net8.0/ProductApi.Application.pdb
+/Users/heisenbergdev/Documents/Proyectos/Productos/ProductApi.Application/bin/Debug/net8.0/ProductApi.Domain.dll
+/Users/heisenbergdev/Documents/Proyectos/Productos/ProductApi.Application/bin/Debug/net8.0/ProductApi.Infrastructure.dll
+/Users/heisenbergdev/Documents/Proyectos/Productos/ProductApi.Application/bin/Debug/net8.0/ProductApi.Domain.pdb
+/Users/heisenbergdev/Documents/Proyectos/Productos/ProductApi.Application/bin/Debug/net8.0/ProductApi.Infrastructure.pdb
+/Users/heisenbergdev/Documents/Proyectos/Productos/ProductApi.Application/obj/Debug/net8.0/ProductA.E443A747.Up2Date
+/Users/heisenbergdev/Documents/Proyectos/Productos/ProductApi.Application/obj/Debug/net8.0/ProductApi.Application.dll
+/Users/heisenbergdev/Documents/Proyectos/Productos/ProductApi.Application/obj/Debug/net8.0/refint/ProductApi.Application.dll
+/Users/heisenbergdev/Documents/Proyectos/Productos/ProductApi.Application/obj/Debug/net8.0/ProductApi.Application.pdb
+/Users/heisenbergdev/Documents/Proyectos/Productos/ProductApi.Application/obj/Debug/net8.0/ref/ProductApi.Application.dll

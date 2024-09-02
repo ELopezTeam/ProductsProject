@@ -1,0 +1,11 @@
+/Users/heisenbergdev/Documents/Proyectos/Productos/ProductApi.Domain/bin/Debug/net8.0/ProductApi.Domain.deps.json
+/Users/heisenbergdev/Documents/Proyectos/Productos/ProductApi.Domain/bin/Debug/net8.0/ProductApi.Domain.dll
+/Users/heisenbergdev/Documents/Proyectos/Productos/ProductApi.Domain/bin/Debug/net8.0/ProductApi.Domain.pdb
+/Users/heisenbergdev/Documents/Proyectos/Productos/ProductApi.Domain/obj/Debug/net8.0/ProductApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/heisenbergdev/Documents/Proyectos/Productos/ProductApi.Domain/obj/Debug/net8.0/ProductApi.Domain.AssemblyInfoInputs.cache
+/Users/heisenbergdev/Documents/Proyectos/Productos/ProductApi.Domain/obj/Debug/net8.0/ProductApi.Domain.AssemblyInfo.cs
+/Users/heisenbergdev/Documents/Proyectos/Productos/ProductApi.Domain/obj/Debug/net8.0/ProductApi.Domain.csproj.CoreCompileInputs.cache
+/Users/heisenbergdev/Documents/Proyectos/Productos/ProductApi.Domain/obj/Debug/net8.0/ProductApi.Domain.dll
+/Users/heisenbergdev/Documents/Proyectos/Productos/ProductApi.Domain/obj/Debug/net8.0/refint/ProductApi.Domain.dll
+/Users/heisenbergdev/Documents/Proyectos/Productos/ProductApi.Domain/obj/Debug/net8.0/ProductApi.Domain.pdb
+/Users/heisenbergdev/Documents/Proyectos/Productos/ProductApi.Domain/obj/Debug/net8.0/ref/ProductApi.Domain.dll

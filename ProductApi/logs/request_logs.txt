@@ -1,0 +1,6 @@
+POST /api/Products responded in 173ms
+GET /api/Products/2 responded in 836ms
+GET /api/Products/5 responded in 164ms
+GET /swagger/index.html responded in 201ms
+GET /swagger/v1/swagger.json responded in 79ms
+POST /api/Products responded in 226ms
